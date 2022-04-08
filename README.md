@@ -1,6 +1,8 @@
 Github is a web-based platform used for version control. Git simplifies the process of working with other people and makes it easy to collaborate on projects. Team members can work on files and easily merge their changes in with the master branch of the project
 After downloading github open the gitbash or terminal in visiual stdio code.
-After that typed the command that are given below:-
+After that typed the command that are given below:
+
+-
 command:- git --version                                       ************for check the version*********
 git version 2.35.1.windows.2
  
